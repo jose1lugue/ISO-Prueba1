@@ -3,6 +3,6 @@
 
 # Indice
 
-### 1. Concepto de virtualización
+### 1. Concepto de virtualización 
 ### 2. Tipos de virtualización
-### Conclusiones
+### 3. Conclusiones
